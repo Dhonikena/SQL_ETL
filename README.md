@@ -5,6 +5,7 @@ This project cleans a messy retail customer dataset (`dirty_data`) using **MySQL
 
 ## 🗂 Dataset
 **Table:** dirty_customer_sales.csv or `dirty_data`
+
 **Key columns:**
 - `Gender` — inconsistent casing (e.g., MALE, female, Male)
 - `AmountSpent` — stored as text with `$` symbols
